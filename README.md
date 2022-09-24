@@ -19,5 +19,5 @@
 -  `rm -rf RANDOM `
 - `git clone https://github.com/bitul404/RANDOM `
 - `cd RANDOM `
-- `python BITUL.py `
+- `python NIDHI.py `
 
